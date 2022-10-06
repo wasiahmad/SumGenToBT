@@ -101,7 +101,7 @@ If you use any of the datasets, models or code modules, please cite the followin
 
 ```
 @article{ahmad2022sumgen,
-  author    = {Tahmid Hasan and Abhik Bhattacharjee and Wasi Uddin Ahmad and Yuan-Fang Li and Yong-bin Kang and Rifat Shahriyar},
+  author    = {Wasi Uddin Ahmad and Saikat Chakraborty and Baishakhi Ray and Kai-Wei Chang},
   title     = {Summarize and Generate to Back-translate: Unsupervised Translation of Programming Languages},
   journal   = {CoRR},
   volume    = {abs/2205.11116},
